@@ -1,0 +1,14 @@
+{
+  "name": "multiwindow",
+  "version": "1.0.0",
+  "description": "Multiple windows sharing the same renderer",
+  "main": "main.js",
+  "author": "Adrian Potra",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^8.1.1"
+  }
+}
